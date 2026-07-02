@@ -64,3 +64,4 @@ The two raw CSV files are included in the project folder. If running elsewhere, 
 - `fear_greed_index.csv`
 
 Then run the notebook cells from top to bottom. Outputs will be generated into `tables/` and `charts/`.
+ 
